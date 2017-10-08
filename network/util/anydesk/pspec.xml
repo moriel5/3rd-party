@@ -30,6 +30,14 @@
     </Package>
 
     <History>
+        <Update release="7">
+            <Date>10-08-2017</Date>
+            <Version>2.9.5</Version>
+            <Comment>Update to 2.9.5</Comment>
+            <Name>moriel5</Name>
+            <Email>emoriel17@yahoo.com</email>
+        </Update>
+        
         <Update release="6">
             <Date>08-05-2017</Date>
             <Version>2.9.4</Version>
